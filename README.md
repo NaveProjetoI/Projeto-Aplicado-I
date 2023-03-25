@@ -1,6 +1,6 @@
-# Projeto Aplicado I
+# PROJETO APLICADO 1
 __________________________________________________________________________________
-# INTRODUÇÃO
+# Introdução
 
   O Projeto Aplicado I consiste num estudo prático com dados reais que serão
 localizados por meio de informações públicas ou privadas de uma ou mais
@@ -37,7 +37,7 @@ comportamento suicida em escala global, algo que pode ser vantajoso nas áreas d
 saúde mental, saúde pública e políticas sociais, bem como auxiliar no planejamento e
 estratégias hábeis de políticas públicas e intervenções preventivas.
 __________________________________________________________________________________
-# DOS OBJETIVOS DESTE PROJETO
+# Dos Objetivos Deste Projeto
 
   Devido ao ambiente acadêmico ser bastante fértil para o desenvolvimento de ideias
 voltadas ao bem comum e favorecimento social, o objeto de pesquisa foi consentido
@@ -66,7 +66,7 @@ primordiais no processo de revelação de insights. Portanto, as técnicas e mé
 empregados visam apurar os dados e informações na busca de extrair o
 conhecimento necessário para alcançar os objetivos acima citados.
 __________________________________________________________________________________
-# DO CONJUNTO DE DADOS
+# Do Conjunto de Dados
 
   O dataset escolhido pelo grupo apresenta dados colecionados de outros quatro
 conjuntos de dados, sendo idealizado para verificar os indícios associados ao
