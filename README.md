@@ -1,5 +1,13 @@
 # PROJETO APLICADO 1
 __________________________________________________________________________________
+# Participantes
+
+Amanda Schwantes Maia
+Elaine Thamire Pereira
+Giovana Vieira da Silva
+Iago Fonseca Marinho Pereira
+Murilo Guimarães
+__________________________________________________________________________________
 # Introdução
 
   O Projeto Aplicado I consiste num estudo prático com dados reais que serão
