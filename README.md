@@ -3,9 +3,13 @@ ________________________________________________________________________________
 # Participantes
 
 Amanda Schwantes Maia
+
 Elaine Thamire Pereira
+
 Giovana Vieira da Silva
+
 Iago Fonseca Marinho Pereira
+
 Murilo Guimarães
 __________________________________________________________________________________
 # Introdução
