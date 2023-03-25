@@ -61,7 +61,7 @@ diferenças relevantes;
 - Descobrir prováveis mediações preventivas para auxiliar na redução das taxas
 de suicídio de determinado país ou região.
 
-  A definição do problema, o entendimento e preparação dos dados, são etapas
+A definição do problema, o entendimento e preparação dos dados, são etapas
 primordiais no processo de revelação de insights. Portanto, as técnicas e métodos
 empregados visam apurar os dados e informações na busca de extrair o
 conhecimento necessário para alcançar os objetivos acima citados.
