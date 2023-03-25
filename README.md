@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 Amanda Schwantes Maia
 
-Elaine Thamire Pereira
+Elaine Thamires Pereira
 
 Giovana Vieira da Silva
 
